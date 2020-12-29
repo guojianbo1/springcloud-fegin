@@ -19,7 +19,7 @@ feign:
 
 logging:
   level:
-    com.zhihao.miao.pay.service.UserService: debug
+    com.jianbo.guo.pay.service.UserService: debug
 
 
 

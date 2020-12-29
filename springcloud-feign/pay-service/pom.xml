@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
         <artifactId>springcloud-feign</artifactId>
-        <groupId>com.zhihao.miao</groupId>
+        <groupId>com.jianbo.guo</groupId>
         <version>1.0-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
@@ -42,7 +42,7 @@
             <artifactId>spring-cloud-starter-feign</artifactId>
         </dependency>
         <dependency>
-            <groupId>com.zhihao.miao</groupId>
+            <groupId>com.jianbo.guo</groupId>
             <artifactId>user-service-api</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
